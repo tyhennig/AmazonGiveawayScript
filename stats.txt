@@ -1,0 +1,8 @@
+items tried:
+1584
+items lost:
+1413
+items won:
+0
+items unsure:
+0
